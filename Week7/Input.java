@@ -1,7 +1,8 @@
 void main() {
-    IO.print(" number : ");
+    IO.print(("Enter Number: "));
     int number = Integer.parseInt(IO.readln());
     if (number > 0) {
-        IO.print(" จำนวนเต็มบวก ");
+        IO.println("จำนวนเต็มบวก");
     }
-    IO.print(" จบโปรแกรม ");
+    IO.println("จบโปรแกรม");
+}
