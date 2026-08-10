@@ -13,5 +13,5 @@ void main() {
 
     IO.println("Total score=  %.2f points".formatted(total));
     IO.println("Total with bonus=  %.2f points".formatted(totalBonus));
-    IO.println("Average of totalwaihbonus("+ totalBonus +")=  %.2f points".formatted(average));
+    IO.println("Average of totalwaihbonus(" + totalBonus + ")=  %.2f points".formatted(average));  
 }
